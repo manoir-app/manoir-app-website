@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body, p, div, td, li, textarea, a, button, input {
+    font-family: 'Nunito', sans-serif;
+}
